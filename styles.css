@@ -81,6 +81,7 @@ body {
 .footerX{
     margin-top: 50px;
     color: #198754;
+    padding; 10px;
 }
 
 @media(max-width: 1000px){
